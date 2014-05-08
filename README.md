@@ -4,14 +4,14 @@ Custom Invoice Information Module for Prestashop v1.0.0
 
 Add custom information on invoice.
 
-[Custom Invoice Information official website] (//www.lbab.fr/modules-prestashop/23-module-informations-de-facturation-personnalisee.html)
+[Custom Invoice Information official website] (http://www.lbab.fr/modules-prestashop/23-module-informations-de-facturation-personnalisee.html)
 
 **If you like this module ?**
 Please let us know on the module page
 
 Download link
 -------------
-[Custom Invoice Information official website] (//www.lbab.fr/modules-prestashop/23-module-informations-de-facturation-personnalisee.html)
+[Custom Invoice Information official website] (http://www.lbab.fr/modules-prestashop/23-module-informations-de-facturation-personnalisee.html)
 
 Installation
 ------------
@@ -32,7 +32,7 @@ Module key features
 
 Authors and Contributors
 ------------------------
-Custom Invoice Information for Prestashop is developed by [Web Agency LBAB] (//www.lbab.fr). Please help us to improve it by reporting bugs and suggestions to contact@lbab.fr.
+Custom Invoice Information for Prestashop is developed by [Web Agency LBAB] (http://www.lbab.fr). Please help us to improve it by reporting bugs and suggestions to contact@lbab.fr.
 
 
 Support or Contact
@@ -44,4 +44,4 @@ Licence
 -------
 GNU/LGPL version 3
 
-[by Lbab](//www.lbab.fr)
+[by Lbab](http://www.lbab.fr)
